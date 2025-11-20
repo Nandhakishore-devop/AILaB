@@ -1,0 +1,1 @@
+Data types categorize different kinds of values or information in programming and data management

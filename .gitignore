@@ -1,3 +1,5 @@
 packages.txt
 temp.txt
+test.txt
 ignorefile.txt
+*.exe
